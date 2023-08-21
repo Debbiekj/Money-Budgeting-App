@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/march"
+    tools:context=".LoginActivity">
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="186dp"
+        android:src="@drawable/ksh" />
+
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="300dp"
+        android:hint="Welcome back! "
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#D84CAF50"
+        android:gravity="center_horizontal"/>
+
+
+
+    <TableLayout
+        android:id="@+id/table"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:background="@color/white"
+        android:paddingHorizontal="10dp">
+
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="398dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:hint="Enter Email"
+            android:inputType="textEmailAddress"
+            android:textColor="#000"
+            android:textColorHint="#000"
+            android:textSize="20sp" />
+
+
+
+    </TableLayout>
+
+    <TableLayout
+
+        android:id="@+id/table1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:background="@color/white"
+        android:paddingHorizontal="10dp">
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="397dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:hint="Enter Password"
+            android:inputType="textPassword"
+            android:textColor="#000"
+            android:textColorHint="#000"
+            android:textSize="20sp" />
+    </TableLayout>
+
+    <TableLayout
+        android:id="@+id/table6"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:background="@color/white"
+        android:paddingHorizontal="10dp">
+
+        <Button
+            android:id="@+id/loginBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="Login"
+            android:textAllCaps="false" />
+    </TableLayout>
+    <TableLayout
+        android:id="@+id/table2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar"
+        android:background="@color/white"
+        android:paddingHorizontal="10dp">
+        <TextView
+            android:id="@+id/loginQn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Don't have an account? SignUp" />
+    </TableLayout>
+
+</LinearLayout>

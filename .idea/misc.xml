@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_account.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_account2.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_budget.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_budget2.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_choose_analy.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_choose_analytics.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_daily_analytics.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_history.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_login.xml" value="0.2708333333333333" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_monthly_analytics.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_splash_screen.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_today_spend.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/activity_today_spending.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/input_layout.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/kjdeb/AndroidStudioProjects/primebudgetingapp/app/src/main/res/layout/retrive_layout.xml" value="0.24739583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "922359213338",
+    "project_id": "primebudgetingapp",
+    "storage_bucket": "primebudgetingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922359213338:android:d63fbd566b7a5c8d8590a3",
+        "android_client_info": {
+          "package_name": "com.example.primebudgetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922359213338-ma19gh8gpbpdq1aquplt073g021ufg5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.primebudgetingapp",
+            "certificate_hash": "4002e675937a6ba13cd37b866add22fb484941e1"
+          }
+        },
+        {
+          "client_id": "922359213338-o1ljd7o7p2e9q25palj2srf5bimtggbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg-5Zw8fi5A-VAvH6u30Uu1eIfy_6DAbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922359213338-o1ljd7o7p2e9q25palj2srf5bimtggbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

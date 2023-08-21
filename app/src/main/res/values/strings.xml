@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name"></string>
+
+    <string-array name="Items">
+        <item> *SELECT ITEM ⤋</item>
+        <item>Transport</item>
+        <item>Food</item>
+        <item>House</item>
+        <item>Entertainment</item>
+        <item>Education</item>
+        <item>Charity</item>
+        <item>Apparel</item>
+        <item>Health</item>
+        <item>Personal</item>
+        <item>Other</item>
+
+    </string-array>
+
+</resources>
